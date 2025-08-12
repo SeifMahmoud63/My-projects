@@ -1,2 +1,2 @@
-This project implements supervised machine learning using tLinearRegression algorithm
+This project implements supervised machine learning using LinearRegression algorithm
 
